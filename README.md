@@ -1,6 +1,6 @@
-# Pennywise
+# Extra Penny
 
-Pennywise is a simple personal finance tracker for keeping an eye on income, expenses, and savings. Add transactions, organize them by category, and see where your money is going with the dashboard and its daily, weekly, and monthly reports.
+Extra Penny is a simple personal finance tracker for keeping an eye on income, expenses, and savings. Add transactions, organize them by category, and see where your money is going with the dashboard and its daily, weekly, and monthly reports.
 
 ## What you can do
 
