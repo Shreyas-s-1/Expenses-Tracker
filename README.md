@@ -37,3 +37,9 @@ The frontend’s development server forwards `/api` requests to the backend on p
 ## Built with
 
 React, Vite, Tailwind CSS, Express, MongoDB, and Mongoose.
+<img width="1040" height="836" alt="Screenshot 2026-10-15 155118" src="https://github.com/user-attachments/assets/98dd5249-91e9-44a5-b4c1-fcfa7cb995b9" />
+<img width="1037" height="817" alt="Screenshot 2026-10-15 155133" src="https://github.com/user-attachments/assets/992ccb10-e978-4c42-9d22-4c5790298286" />
+<img width="1005" height="797" alt="Screenshot 2026-10-15 155144" src="https://github.com/user-attachments/assets/23add29c-9df2-423e-9759-b3e6636f54dc" />
+
+
+
